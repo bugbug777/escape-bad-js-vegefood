@@ -1,5 +1,4 @@
-// eslint-disable-next-line import/no-unresolved
-import axios from 'https://cdn.skypack.dev/axios';
+/* global axios */
 
 const url = 'https://hexschool.github.io/js-filter-data/data.json';
 let data;
